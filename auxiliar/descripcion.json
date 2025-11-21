@@ -1,0 +1,6 @@
+{
+  "name": "ha_gestor_energetico",
+  "description": "Gestor Energético Integral para Home Assistant: Tarifas 20TD, Balance Neto Horario y Control de Excedentes.",
+  "homepage": "https://stoker2010.github.io/ha_gestor_energetico/",
+  "topics": ["home-assistant", "hacs", "integration", "energy", "pv", "solar", "20td", "spain"]
+}
