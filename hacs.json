@@ -1,0 +1,7 @@
+{
+  "name": "Gestor Energético 20TD",
+  "render_readme": true,
+  "filename": "ha_gestor_energetico.zip",
+  "homeassistant": "2024.1.0",
+  "country": "ES"
+}
