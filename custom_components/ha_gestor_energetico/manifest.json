@@ -1,0 +1,12 @@
+{
+  "domain": "ha_gestor_energetico",
+  "name": "Gestor Energético",
+  "version": "0.1.0",
+  "documentation": "https://github.com/stoker2010/ha_gestor_energetico",
+  "issue_tracker": "https://github.com/stoker2010/ha_gestor_energetico/issues",
+  "dependencies": ["workday"],
+  "codeowners": ["@stoker2010"],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "config_flow": true
+}
